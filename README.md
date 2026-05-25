@@ -1,3 +1,7 @@
+Live Demo
+Website:
+nutrivisionfinalproject.netlify.app
+
 NutriVision 🍏✨
 
 AI-powered nutrition intelligence platform that helps users analyze meals instantly using text, voice, nutrition label scanning, and food image detection. Built with a modern glassmorphism UI and responsive design.
