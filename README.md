@@ -1,14 +1,68 @@
-Live Demo
+NutriVision
 
-Website:
+🌐 Live Demo
 
-nutrivisionfinalproject.netlify.app
+🔗 Website:
 
-NutriVision 🍏✨
+https://nutrivisionfinalproject.netlify.app/
 
-AI-powered nutrition intelligence platform that helps users analyze meals instantly using text, voice, nutrition label scanning, and food image detection. Built with a modern glassmorphism UI and responsive design.
+📌 Overview
 
-🚀 Features
+NutriVision is an AI-powered nutrition and health analysis platform designed to help users understand food nutrition, track healthy eating habits, and make smarter dietary decisions.
+
+The platform combines:
+
+AI-powered nutrition analysis
+
+Smart food evaluation
+
+Health-focused recommendations
+
+User-friendly food tracking experience
+
+Responsive and modern web interface
+
+NutriVision simplifies nutrition understanding by presenting food-related insights in a clean, easy-to-understand format.
+
+🚀 Problem Statement
+
+Many people face difficulties while:
+
+❌ Understanding nutritional information
+
+❌ Tracking healthy eating habits
+
+❌ Identifying unhealthy food choice
+
+❌ Managing daily nutrition effectively
+
+❌ Accessing simple health-focused food insights
+
+NutriVision solves these problems using:
+
+AI-powered nutrition analysis
+
+Smart health insights
+
+Real-time food evaluation
+
+Simple and interactive user experience
+
+🎯 Objectives
+
+Simplify nutrition and health analysis
+
+Help users make healthier food choices
+
+Provide AI-powered food insights
+
+Improve awareness about healthy eating
+
+Create an accessible and user-friendly nutrition platform
+
+Build a scalable modern health application
+
+🚀Key Features
 
 🥗 AI nutrition analysis from food descriptions
 
